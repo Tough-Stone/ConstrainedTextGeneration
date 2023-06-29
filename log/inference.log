@@ -1,0 +1,28 @@
+2023-06-29 15:22:45,036 -  INFO: The log file is ../log/inference.log
+2023-06-29 15:22:45,036 -  INFO: output file is ../output/sixth.txt
+2023-06-29 15:22:45,036 -  INFO: Namespace(adaptive=False, batch_size=10, decoder_chain=5, do_sample=0, encoder_loss_type=0, full_mask=0, generate_mode=0, gpu='1', insert_mode=0, masked_lm=0, max_insert_label=10, max_len=400, max_refinement_steps=150, random_init=0, refinement_steps=50, repetition_penalty=2, temperature=1, threshold=0, top_k=0, top_p=0.9, w=1.0)
+2023-06-29 15:23:12,199 -  INFO: Initialize BartForTextInfill from the checkpoint ../checkpoints/large-finetune-model.
+2023-06-29 15:23:20,766 -  INFO: Initialize GPT2 with default parameters.
+2023-06-29 15:23:29,081 -  INFO: 
+1 sentences using 8.3 seconds.
+2023-06-29 15:46:19,673 -  INFO: The log file is ../log/inference.log
+2023-06-29 15:46:19,673 -  INFO: output file is ../output/sixth.txt
+2023-06-29 15:46:19,673 -  INFO: Namespace(adaptive=False, batch_size=10, decoder_chain=5, do_sample=0, encoder_loss_type=0, full_mask=0, generate_mode=0, gpu='1', insert_mode=0, masked_lm=0, max_insert_label=10, max_len=400, max_refinement_steps=150, random_init=0, refinement_steps=50, repetition_penalty=2, temperature=1, threshold=0, top_k=0, top_p=0.9, w=1.0)
+2023-06-29 15:46:26,670 -  INFO: Initialize BartForTextInfill from the checkpoint ../checkpoints/large-finetune-model.
+2023-06-29 15:46:29,584 -  INFO: Initialize GPT2 with default parameters.
+2023-06-29 15:47:10,205 -  INFO: 
+2 sentences using 40.6 seconds.
+2023-06-29 15:48:29,320 -  INFO: The log file is ../log/inference.log
+2023-06-29 15:48:29,320 -  INFO: output file is ../output/test_set_ttt.txt
+2023-06-29 15:48:29,320 -  INFO: Namespace(adaptive=False, batch_size=10, decoder_chain=5, do_sample=0, encoder_loss_type=0, full_mask=0, generate_mode=0, gpu='1', insert_mode=0, masked_lm=0, max_insert_label=10, max_len=400, max_refinement_steps=150, random_init=0, refinement_steps=50, repetition_penalty=2, temperature=1, threshold=0, top_k=0, top_p=0.9, w=1.0)
+2023-06-29 15:48:36,268 -  INFO: Initialize BartForTextInfill from the checkpoint ../checkpoints/large-finetune-model.
+2023-06-29 15:48:39,057 -  INFO: Initialize GPT2 with default parameters.
+2023-06-29 15:48:47,248 -  INFO: 
+2 sentences using 8.2 seconds.
+2023-06-29 15:49:40,259 -  INFO: The log file is ../log/inference.log
+2023-06-29 15:49:40,259 -  INFO: output file is ../output/test_set_ttt.txt
+2023-06-29 15:49:40,259 -  INFO: Namespace(adaptive=False, batch_size=10, decoder_chain=5, do_sample=0, encoder_loss_type=0, full_mask=0, generate_mode=0, gpu='1', insert_mode=0, masked_lm=0, max_insert_label=10, max_len=400, max_refinement_steps=150, random_init=0, refinement_steps=50, repetition_penalty=2, temperature=1, threshold=0, top_k=0, top_p=0.9, w=1.0)
+2023-06-29 15:49:47,471 -  INFO: Initialize BartForTextInfill from the checkpoint ../checkpoints/large-finetune-model.
+2023-06-29 15:49:50,381 -  INFO: Initialize GPT2 with default parameters.
+2023-06-29 15:49:56,420 -  INFO: 
+2 sentences using 6.0 seconds.

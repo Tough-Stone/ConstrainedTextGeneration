@@ -1,0 +1,8 @@
+0
+Refinement steps:	4
+Key works:	前苏联，部署，核武器，核反应堆
+Generated sentence:	美 日 在 前 苏 联 瓦 解 体 时 部 署 的 核 武 器 , 其 中 包 括 核 反 应 堆 ｡
+1
+Refinement steps:	12
+Key works:	雷达，导弹，护卫舰
+Generated sentence:	据 美 军 阿 海 航 母 近 距 雷 达 拍 的 照 , 在 这 艘 巨 大 战 船 靠 前 进 港 巡 逻 中 还 发 现 有 一 艘 导 弹 护 卫 舰 上 的 武 器 最 先 被 曝 光 ｡
